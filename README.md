@@ -1,4 +1,4 @@
-# Diabetes-Detection
+# Diabetes Risk Classification System
 
 ## Abstract
 This project develops supervised machine learning models to predict the likelihood of diabetes among adults in the United States using data from the Centers for Disease Control and Prevention’s Behavioral Risk Factor Surveillance System (BRFSS). The dataset contains over 400,000 records and includes a wide range of demographic, behavioral, and physiological health indicators such as BMI, age, physical activity, smoking status, income, blood pressure, and general health condition.
